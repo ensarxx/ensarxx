@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ensarxx
-- 👀 I’m interested in game development(Unity C#) and Python
+- 👀 I develop games(Unity/C#) and mobile apps(Java).
 - 📫 ensardasdeveloper@gmail.com
 
 <!---
